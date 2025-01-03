@@ -57,7 +57,7 @@ Sample supermarket sales dataset from Kaggle (https://www.kaggle.com/datasets/au
 **How to Run:**
 1. Clone the repository.
 2. Install the required libraries using `pip install -r requirements.txt`.
-3. Open `supermarket_sales_analysis.ipynb` in Jupyter Notebook or view dashboards in Tableau Public.
+3. Open `supermarket_sales_analysis.ipynb` in Jupyter Notebook.
 
 ---
 
@@ -90,7 +90,7 @@ Sample admissions dataset provided.
 **How to Run:**
 1. Clone the repository.
 2. Install the required libraries using `pip install -r requirements.txt`.
-3. Open `supermarket_sales_analysis.ipynb` in Jupyter Notebook or view dashboards in Tableau Public.
+3. Open `Admissions.ipynb` in Jupyter Notebook.
 
 ---
 ## About
