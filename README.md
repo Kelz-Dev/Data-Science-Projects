@@ -8,6 +8,7 @@ Welcome to my data science portfolio! This repository showcases the projects I h
 
 1. [Housing Prices Analysis](#housing-prices-analysis)
 2. [Supermarket Sales Analysis](#supermarket-sales-analysis)
+3. [Chance of Getting Admitted to College](#Admissions)
 
 ---
 
@@ -60,5 +61,37 @@ Sample supermarket sales dataset from Kaggle (https://www.kaggle.com/datasets/au
 
 ---
 
+### 3. Chance of Gaining Admission to College
+
+**Objective:**  
+Analyze Admissions data to identify factors that affects ones chances of getting admitted to college.
+
+**Tools Used:**
+- Python (Pandas, NumPy, Scikit-learn)
+- Visualization (Matplotlib, Seaborn)
+
+
+**Dataset:**  
+Sample admissions dataset provided.
+
+**Key Insights:**
+-  CGPA: Often has the highest coefficients in admission models, indicating its critical impact on decisions.
+
+-  SOP Rating: A low magnitude implies this factor is less influential compared to others.
+
+-  University Ratings: A low magnitude implies this factor is less influential compared to others.
+
+-  LOR Strength: Strong LORs are helpful for admissions.
+
+-  TOEFL Score: Higher TOEFL scores are positively associated with admission chances.
+
+-  GRE Score: Higher GRE score increases the likelihood of admission.
+
+**How to Run:**
+1. Clone the repository.
+2. Install the required libraries using `pip install -r requirements.txt`.
+3. Open `supermarket_sales_analysis.ipynb` in Jupyter Notebook or view dashboards in Tableau Public.
+
+---
 ## About
 I am an aspiring Data Scientist passionate about turning data into actionable insights. Feel free to explore my projects and reach out with any questions or feedback!
