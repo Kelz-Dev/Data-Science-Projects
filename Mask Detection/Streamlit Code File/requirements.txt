@@ -1,13 +1,9 @@
-# Core libraries
 tensorflow==2.20.0
 numpy==1.26.4
 pillow==10.3.0
-
-# Visualization
 plotly==5.23.0
-
-# Web UI
 streamlit==1.45.0
+
 
 
 
